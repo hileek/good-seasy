@@ -1,4 +1,4 @@
-# Rush Cargo
+# Goods Easy
 
 [English](https://github.com/peekdog/react-antd-typescript/blob/main/README.md) | 简体中文
 
